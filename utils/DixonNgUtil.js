@@ -31,7 +31,7 @@ async function editTasks (req, res) {
             subject: subject || tasks[tasksIndex].subject,
             status: status || tasks[tasksIndex].status,
             deadline: deadline || tasks[yasksIndex].deadline,
-            descripton: description || tasks[tasksIndex].description,
+            description: description || tasks[tasksIndex].description,
         };
 
         await fs.writeFile(RESOURCE_FILE, JSON.stringify(tasks, null, 2), "utf8");

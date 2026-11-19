@@ -1,14 +1,5 @@
 [
   {
-    "title": "test",
-    "subject": "Devopss",
-    "status": "Complete",
-    "deadline": "2026-11-21",
-    "description": "The first of the CRUD functions to test the read, update and delete functionalities later on",
-    "id": "1794840375165206",
-    "descripton": "The first of the CRUD functions to test the read, update and delete functionalities later on"
-  },
-  {
     "title": "E-portfolio",
     "subject": "ProCOMM",
     "status": "uncomplete",
