@@ -1,10 +1,10 @@
 [
   {
-    "title": "test",
-    "subject": "Devopss",
-    "status": "Complete",
-    "deadline": "2026-11-21",
-    "description": "The first of the CRUD functions to test the read, update and delete functionalities later on",
+    "title": "DevOps Project Part 2",
+    "subject": "Devops",
+    "status": "Incomplete",
+    "deadline": "2026-12-18",
+    "description": "The start of the Solo Project for DevOps",
     "id": "1794840375165206"
   },
   {
